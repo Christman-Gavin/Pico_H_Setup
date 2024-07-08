@@ -23,7 +23,3 @@
 ### settings.json
 
 &nbsp; Rust analyzer settings so it checks the code against the thumbv6m-none-eabi target
-
-### Embed.toml
-
-&nbsp; 
